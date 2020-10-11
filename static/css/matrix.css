@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+}
+
+#mat-measures {
+    width: 18%;
+}
+
+#warning-text {
+    display: none;
+}
+
+#matrix-container {
+    display: none;
+}
+
+#restart {
+    display: none;
+}
+
+.top-buffer {
+    margin-top:10px;
+}
+
+.matrix-table { border-spacing: 0; border-collapse: collapse; }
+.matrix-table td { border: 1px solid; width: 2em; height: 2em; }
